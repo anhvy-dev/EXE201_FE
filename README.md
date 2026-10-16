@@ -1,4 +1,3 @@
-```markdown
 <!-- title: AIDONIA -->
 <br />
 <div align="center">
@@ -46,7 +45,11 @@ _Real-time Chat: Direct buyer-seller negotiation modal_
 ![My Deals](screenshots/my_deals.png)
 _My Deals: Deal management and status tracking for buying and selling_
 
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard1.png)
+![Admin Dashboard](screenshots/admin_dashboard2.png)
+![Admin Dashboard](screenshots/admin_dashboard3.png)
+![Admin Dashboard](screenshots/admin_dashboard4.png)
+
 _Admin Dashboard: Platform analytics, post approval, and category management_
 
 ## Features
@@ -218,4 +221,3 @@ EXE201_FE/
 
 ```
 
-```
