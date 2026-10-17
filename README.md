@@ -5,7 +5,7 @@
   <p align="center">
     A dedicated C2C secondhand marketplace platform tailored for university students
   </p>
-  <a href="http://localhost:3000/">Go to Aidonia!</a>
+  <a href="https://aidonia.vercel.app/">Go to Aidonia!</a>
 </div>
 
 ## Overview
